@@ -9,7 +9,7 @@ Este repositório contém os TPCs desenvolvidos no âmbito da UC de Processament
 - **E-mail:** [a93199@alunos.uminho.pt](mailto:a93199@alunos.uminho.pt)
 
 
-
+## Resumo:
 Proibido usar o módulo CSV;
 Ler o dataset, processá-lo e criar os seguintes resultados:
 Lista ordenada alfabeticamente das modalidades desportivas;

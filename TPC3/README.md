@@ -10,8 +10,9 @@ Análise de um Dataset
 
 
 ## Resumo:
-Proibido usar o módulo CSV;
-Ler o dataset, processá-lo e criar os seguintes resultados:
-Lista ordenada alfabeticamente das modalidades desportivas;
-Percentagens de atletas aptos e inaptos para a prática desportiva;
-Distribuição de atletas por escalão etário (escalão = intervalo de 5 anos): ... [30-34], [35-39], ...
+Somador on/off
+Somador on/off: criar o programa em Python
+Pretende-se um programa que some todas as sequências de dígitos que encontre num texto;
+Sempre que encontrar a string “Off” em qualquer combinação de maiúsculas e minúsculas, esse comportamento é desligado;
+Sempre que encontrar a string “On” em qualquer combinação de maiúsculas e minúsculas, esse comportamento é novamente ligado;
+Sempre que encontrar o caráter “=”, o resultado da soma é colocado na saída.

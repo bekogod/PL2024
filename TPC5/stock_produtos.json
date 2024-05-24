@@ -1,0 +1,12 @@
+[
+    {"cod": "A23", "nome": "água 0.5L", "quant": 8, "preco": 0.7},
+    {"cod": "B34", "nome": "refrigerante 1L", "quant": 15, "preco": 2.5},
+    {"cod": "C45", "nome": "chocolate 100g", "quant": 20, "preco": 1.5},
+    {"cod": "D56", "nome": "batata chips 200g", "quant": 10, "preco": 1.7},
+    {"cod": "E67", "nome": "vinho tinto 750ml", "quant": 5, "preco": 7.5},
+    {"cod": "F78", "nome": "cerveja 350ml", "quant": 30, "preco": 2.0},
+    {"cod": "G89", "nome": "amendoim 100g", "quant": 25, "preco": 1.0},
+    {"cod": "H90", "nome": "biscoito 100g", "quant": 15, "preco": 1.2},
+    {"cod": "I12", "nome": "café 250g", "quant": 5, "preco": 4.0}
+    
+]

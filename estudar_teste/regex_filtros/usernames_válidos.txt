@@ -1,0 +1,18 @@
+Inválido: !089123abcd_
+Inválido: _abcde
+Inválido: _09098abcdD0
+Inválido: _09098abcdD0_
+Válido: .09098abcdD_
+Inválido: _09098abcdD aqui vai .
+Válido: _1jcr_
+Inválido: .2prh_.
+Inválido: .pdmMOURA
+Válido: .4pdmMOURA
+Inválido: _3jj_
+Inválido: _1223
+Inválido: 
+Inválido: ola aqui vai .09098abcdD_
+Inválido: ola _09098abcdD aqui vai .
+Inválido: .2prh_ ++++++    .3jcr_ ~~~~~_1jcr.
+Inválido:    .3jja_
+Inválido: lixo ..... .2prh cont_lixo
